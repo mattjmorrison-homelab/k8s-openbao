@@ -7,4 +7,4 @@ metadata:
 spec:
   type: secret-store
   owner: mattjmorrison-homelab
-  system: platform
+  system: openbao
